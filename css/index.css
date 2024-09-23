@@ -1,0 +1,36 @@
+.imagen-banner{
+    width: 100%;
+    height: 325px;
+}
+
+#imagen1{
+    width: 100%;
+    height: 325px;
+}
+
+.titulo{
+    text-align: center;
+    margin: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.dispositivos{
+    margin: 10px ;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: (100px, auto);
+    grid-gap: 20px;
+
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    color: rgb(72, 29, 85);
+    
+}
+
+
+
+
+

@@ -1,0 +1,30 @@
+.descripcion{
+    width: 19%;
+    position: absolute;  
+}
+
+.soluciones{
+    margin-top: 30px;
+    margin-left: 20%;
+    padding: 0vw 1.66666667vw 0vw 1.66666667vw;
+    position: relative;
+    width: 75%;
+    text-align: justify;
+    align-items: flex-start;   
+}
+
+.consejos{
+    display: block;
+    border: 1px solid #e1e1e1;
+    border-radius: 20px;
+    background: #fff;
+    color: #000;
+    max-width: 80%;
+}
+
+#dispo1{
+    width: 200px ;
+    height: 250px;
+    margin-left: 5px;
+}
+
